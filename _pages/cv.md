@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Information Technology, National Open University of Nigeria Abuja, 2020
+* B.Sc. in Computer Science, •	Umaru Musa Yaradua University Katsina, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Cyblack, Nigeria: 2022: Intern
+  * Duties includes: Vulnerability Analysis and Enumeration, Incidence Response, Cloud computing etc.
+  * Supervisor: The Head Unit
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Chaitanya Cyber Strix Technology, India: Intern
+  * Duties included: Vulnerability Analysis and Enumeration, Cryptography and Network Fundamental etc.
+  * Supervisor: Head Unit
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Katsina State Institute of Technology & Management, Nigeria: Teaching & Research
+  * Duties included: Teaching students at various levels & Research
+  * Supervisor: Head of Department
   
 Skills
 ======
-* Skill 1
+* OS installation and configuration e.g. Ubuntu Server, Windows Server and Active Directory, Kali, Manjaro etc.
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Cloud: EC2 setup including IAM 
+  * Wireshark,
+  * Metasploit,
+  * Virtualization setup: Proxmox, VMware Workstation & VirtualBox.
+  * Burp Suite
+  * Nessus
+  * Maltego
+  * Nmap etc.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+  <ul>Awareness of Information Security Best Practice Among Small and MediumEnterprises (SMEs). International Journal of Advances in Engineering and Computer Science; 1-2 | pp.142-148. https://academianspublishers.org/wp-content/uploads/2025/12/IJAECS1325.pdf</ul>
+  <ul>o	Design and experimental analysis of a lightweight software load balancer for resource-constrained environments. Accepted in Katsina Technology Management Research Journal, 2026. https://docs.google.com/document/d/1S7t88Tv3NNiaMo0A8ejrJ_0EwcDHtlTk/edit?usp=drive_link&ouid=101830782193659791447&rtpof=true&sd=true</ul>
+  <ul>o	Preparing teachers for a digital future: multimedia lecture nuggets as a tool for innovative instruction in Nigeria. A paper presented at the Maiden Biennial conference of the faulty of Arts and Social sciences, FUE Kontagora. https://docs.google.com/document/d/1ilkgUyhcqv_2Dh5n5s_2T3mR9J4jZ26t/edit?usp=drive_link&ouid=101830782193659791447&rtpof=true&sd=true</ul>
+   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>Computer Science Department, ksitm.edu.ng</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ND II Level Coordinator 2025-2026
+* Departmental Examination Officer 2025-Date.
